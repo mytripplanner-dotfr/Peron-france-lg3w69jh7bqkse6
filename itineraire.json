@@ -1,0 +1,156 @@
+{
+  "pays": "France",
+  "drapeau": "🇫🇷",
+  "symbole": "🥖",
+  "titre": "Échappée Savoyarde: Charme et Nature à Péron",
+  "budget_total": "1780€",
+  "duree": "3 jours",
+  "date_debut": "2026-02-03",
+  "date_fin": "2026-02-06",
+  "temps_vol": "12h avec escale depuis Langlois, etats unis",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur Péronnaise",
+      "legende": "Après un long voyage, installez-vous dans le rythme paisible de la campagne française. Découvrez le charme discret de Péron, une introduction parfaite à la beauté sereine de la région et à son atmosphère accueillante. Prenez le temps de vous imprégner de l'air frais des montagnes et de la tranquillité des lieux.",
+      "lieu": "Péron",
+      "activites": [
+        "🛬 <strong>Arrivée à Genève et transfert à Péron</strong>: Atterrissez à l'aéroport de Genève, récupérez votre voiture de location et prenez la route pour Péron. Ce court trajet vous offre déjà un aperçu des paysages vallonnés du Pays de Gex.",
+        "🚶‍♂️ <strong>Balade découverte du village de Péron</strong>: Flânez dans les rues calmes de Péron, admirez les maisons traditionnelles et l'église locale. C'est une première immersion douce dans la vie rurale française, idéale pour se dégourdir les jambes."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La location de voiture est fortement recommandée pour explorer la région de Péron et ses environs, les transports en commun étant limités."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Conduite",
+          "texte": "La conduite en France se fait à droite. Les routes de campagne peuvent être étroites, soyez vigilant."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛰️",
+      "titre": "Panoramas du Jura et Saveurs Locales",
+      "legende": "Plongez au cœur du Pays de Gex, entre les contreforts du Jura et la richesse de son terroir. Cette journée vous invite à des panoramas époustouflants sur le lac Léman et les Alpes, ainsi qu'à la découverte des saveurs authentiques de la région. Une immersion complète dans la nature et la culture locale.",
+      "lieu": "Pays de Gex",
+      "activites": [
+        "⛰️ <strong>Randonnée panoramique au Reculet (ou équivalent)</strong>: Partez pour une randonnée accessible offrant des vues spectaculaires sur le bassin genevois, le lac Léman et, par temps clair, le Mont Blanc. C'est une bouffée d'air pur garantie et une occasion unique d'admirer la majesté du Jura.",
+        "🧀 <strong>Visite et dégustation à une fromagerie locale</strong>: Découvrez les secrets de fabrication du fromage de Gex Bleu ou d'autres spécialités régionales. Profitez d'une dégustation pour savourer ces produits du terroir, directement auprès des producteurs passionnés."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Conseil Randonnée",
+          "texte": "Prévoyez des chaussures de marche robustes et des couches de vêtements pour faire face aux changements de météo en montagne, même pour une randonnée facile."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Ne manquez pas de goûter la fondue savoyarde ou la raclette, des plats réconfortants parfaits pour l'hiver."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏰",
+      "titre": "Patrimoine et Détente Frontalière",
+      "legende": "Explorez le patrimoine local et l'élégance des villes voisines, offrant un contraste charmant avec la tranquillité de Péron. Cette journée est dédiée à l'histoire, à la culture et à la douceur de vivre de cette région frontalière, avec une touche de détente avant le départ.",
+      "lieu": "Gex / Divonne-les-Bains",
+      "activites": [
+        "🏰 <strong>Découverte du Fort l'Écluse</strong>: Visitez cette impressionnante fortification militaire creusée dans la roche, surplombant le Rhône. Son histoire fascinante et ses vues stratégiques en font un site incontournable de la région.",
+        "🛍️ <strong>Flânerie et détente à Gex ou Divonne-les-Bains</strong>: Promenez-vous dans le centre-ville de Gex, explorez ses boutiques ou optez pour la ville thermale de Divonne-les-Bains. Profitez de l'ambiance élégante, des parcs et peut-être d'un café en terrasse."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🇫🇷🇨🇭",
+          "titre": "Proximité Suisse",
+          "texte": "Vous êtes très proche de la frontière suisse. N'oubliez pas votre passeport si vous envisagez une brève incursion, bien que l'itinéraire reste en France."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Les marchés locaux sont une excellente occasion de découvrir l'artisanat et les produits frais de la région. Renseignez-vous sur les jours de marché à Gex ou Divonne."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "1000€/pers (Vol aller-retour Langlois, USA - Genève en classe économique avec escale)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "230€/pers (Location de voiture pour 3 jours et carburant)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "200€/pers (3 petits-déjeuners, 3 déjeuners, 3 dîners, hors boissons)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "300€/pers (3 nuits en hôtel 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "50€/pers (Entrées pour sites et dégustations)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai et juin pour la randonnée, ou septembre et octobre pour les couleurs d'automne.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Péron est une petite commune d'environ 2 800 habitants, offrant une ambiance rurale et paisible au cœur du Pays de Gex.",
+      "symbole": "🏡"
+    },
+    {
+      "titre": "La France, pays de gastronomie et de culture, utilise l'Euro (€) comme monnaie. Les cartes bancaires sont largement acceptées.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "La région du Pays de Gex est frontalière avec la Suisse et abrite une partie du CERN, le plus grand laboratoire de physique des particules du monde.",
+      "symbole": "⚛️"
+    },
+    {
+      "titre": "En février, les températures à Péron peuvent varier de -5°C à 5°C. Prévoyez des vêtements chauds et imperméables, ainsi que des chaussures adaptées à la neige ou à la pluie.",
+      "symbole": "❄️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations pour le Pays de Gex",
+      "titre": "Tourisme Pays de Gex",
+      "url": "https://www.paysdegex-tourisme.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo détaillées pour la France",
+      "titre": "Météo France",
+      "url": "https://www.meteofrance.com/",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur l'aéroport de Genève (GVA)",
+      "titre": "Aéroport de Genève",
+      "url": "https://www.gva.ch/fr/",
+      "symbole": "✈️"
+    }
+  ]
+}
